@@ -8,6 +8,7 @@ public:
 	double MeanY = 0;
 	double MeanSqrX = 0;
 	double XY = 0;
+	////
 	//////Здесь высчитываем по формуле. Её можно вывести. Экстремум  функции нескольких переменных.
 	MeanSquares(double y[],double x[]) {
 		for (int i = 0; i < 100; i++) {
