@@ -5,7 +5,7 @@ using namespace std;
 class GaussÂistribution
 {
 public:
-	//Âñå õîğîøî
+	//Âñå õîğîøî/
 	double vectorRandY[100]; 
 	double vectorRandX[100];
 	GaussÂistribution(double mean, double sttdv, mt19937 h){
